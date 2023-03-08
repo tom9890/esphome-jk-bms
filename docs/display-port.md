@@ -60,6 +60,9 @@ Since hardware version 10 the JK-BMS comes with a display port. The port can be 
                      ││└──── GND
                      │└───── K+
                      └────── K-
+
+![jk-bms-lcd-pins](https://user-images.githubusercontent.com/86121626/223641580-30170577-6ade-4670-aa94-c6d13ee56f5b.jpg)
+
 ```
 
 ## Schematics
